@@ -1,0 +1,26 @@
+# Byte-kompilerade Python-filer
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuell miljö
+venv/
+env/
+.venv/
+
+# Miljövariabler
+.env
+
+# Redaktörspecifika filer
+.vscode/
+.idea/
+
+# Operativsystemets skräpfiler
+.DS_Store
+Thumbs.db
+
+# temporära utdata 
+*.wav
+
+# Loggfiler
+*.log

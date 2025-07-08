@@ -1,0 +1,6 @@
+openai
+python-dotenv
+faiss-cpu
+numpy
+tiktoken
+rank_bm25
